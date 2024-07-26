@@ -27,4 +27,5 @@ const apiKey = 'your_api_key_here'; // Replace with your ExchangeRate-API key
 ```
 
 ## Project Test
-<img src="assets/img/currencyconverter.gif>
+![currencyconverter](https://github.com/user-attachments/assets/91b11a0f-4bb4-4524-afb0-cf961080e930)
+
