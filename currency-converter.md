@@ -24,6 +24,7 @@ The application uses the ExchangeRate-API for fetching conversion rates. Make su
 
 ```javascript
 const apiKey = 'your_api_key_here'; // Replace with your ExchangeRate-API key
+```
 
 ## Project Test
 <img src="assets/gif/currencyconverter.gif">
