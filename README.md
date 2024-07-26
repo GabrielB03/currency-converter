@@ -15,7 +15,7 @@ The Currency Converter is a simple, user-friendly web application designed to he
 - **ExchangeRate-API:** For fetching real-time currency conversion rates.
 
 ## Project Structure
-- **index.html:** The main HTML file containing the structure of the application.
+- **currencyConverter.html:** The main HTML file containing the structure of the application.
 - **css/styles.css:** The CSS file for styling the application.
 - **js/script.js:** The JavaScript file containing the logic for fetching conversion rates and updating the UI.
 
