@@ -1,4 +1,4 @@
-const apiKey = '1cfda6ba2a10ba39f184c229'; // Sua chave de API
+const apiKey = '1cfda6ba2a10ba39f184c229'; // Your API key
 const apiUrl = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD`;
 
 document.addEventListener('DOMContentLoaded', () => {
